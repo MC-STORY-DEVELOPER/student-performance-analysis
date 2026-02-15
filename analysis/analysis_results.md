@@ -14,16 +14,16 @@ We trained an XGBoost Regressor to predict `Exam_Score`.
 
 ## 3. Key Drivers (SHAP Analysis)
 The SHAP analysis reveals the most influential factors affecting the exam score.
-*(See `analysis/plots/shap_summary_bar.png` for visual details)*
+*(See `plots/shap_summary_bar.png` for visual details)*
 
-![SHAP Summary Bar](analysis/plots/shap_summary_bar.png)
+![SHAP Summary Bar](plots/shap_summary_bar.png)
 
 Based on the model's feature importance:
 1.  **Attendance**: Consistently the top predictor. Higher attendance correlates strongly with higher scores.
 2.  **Hours_Studied**: The second most critical factor.
 3.  **Additional Factors**: Previous scores and Tutoring sessions also play a role, but to a lesser extent than the top two.
 
-![SHAP Summary Dot](analysis/plots/shap_summary_dot.png)
+![SHAP Summary Dot](plots/shap_summary_dot.png)
 
 ## 4. Student Segmentation (Clustering)
 We used K-Means clustering to identify student personas. Four distinct clusters emerged:
@@ -38,15 +38,15 @@ We used K-Means clustering to identify student personas. Four distinct clusters 
 > [!TIP]
 > The clustering silhouette score was low (~0.05), indicating that students don't fall into perfectly separated groups but rather exist on a continuum. However, the score differentiation validates the segmentation utility.
 
-![Clustering PCA](analysis/plots/clustering_pca.png)
+![Clustering PCA](plots/clustering_pca.png)
 
 ## 5. Visualizations Generated
-All plots are saved in `analysis/plots`:
+All plots are saved in `plots`:
 -   `shap_summary_bar.png` & `shap_summary_dot.png`: Feature importance.
 -   `actual_vs_predicted.png`: Model accuracy visual check.
 -   `clustering_pca.png`: 2D visualization of student segments.
 
-![Actual vs Predicted](analysis/plots/actual_vs_predicted.png)
+![Actual vs Predicted](plots/actual_vs_predicted.png)
 
 ## 6. Recommendations
 1.  **Focus on Attendance**: It is the single biggest lever for performance.
